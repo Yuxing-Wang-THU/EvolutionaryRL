@@ -1,14 +1,12 @@
 # Evolutionary algos for solving RL problems
-# Source code components
-This source code included:
+# Src
+
 ```
 ├── cem.py                  # Source code for simple Cross Entropy Method (pytorch version)
 ├── ces.py                  # Source code for Canonical Evolution Strategy
 ├── cmrl.py                 # Source code for Canonical Memetic Reinforcement Learning
 ├── cmaes.py                # Source code for Covariance Matrix Adaptation Evolution Strategy
 ├── cmamrl.py               # Source code for Covariance Matrix Adaptation Memetic Reinforcement Learning
-├── experimental_results    # Experimental results for eight environments
-└── requirements.txt        # Python dependencies
 ```
 # Install dependencies
 All necessary packages required to run the source code in this repository are listed in the *requirements.txt* file. These packages can be installed using command line with the *pip* tool.
