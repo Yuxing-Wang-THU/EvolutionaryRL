@@ -7,6 +7,8 @@
 ├── cmrl.py                 # Source code for Canonical Memetic Reinforcement Learning
 ├── cmaes.py                # Source code for Covariance Matrix Adaptation Evolution Strategy
 ├── cmamrl.py               # Source code for Covariance Matrix Adaptation Memetic Reinforcement Learning
+├── train.py                # Main script for training
+└── requirements.txt        # Python dependencies
 ```
 # Install dependencies
 In your own conda env, try this:
