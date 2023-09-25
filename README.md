@@ -9,12 +9,8 @@
 ├── cmamrl.py               # Source code for Covariance Matrix Adaptation Memetic Reinforcement Learning
 ```
 # Install dependencies
-All necessary packages required to run the source code in this repository are listed in the *requirements.txt* file. These packages can be installed using command line with the *pip* tool.
+In your own conda env, try this:
 ```
-# Activating virtual environments, this step is optional
-virtualenv -p python3 venv
-source venv/bin/activate
-# Install necessary packages
 pip install -r requirements.txt
 ```
 # Run the source code
