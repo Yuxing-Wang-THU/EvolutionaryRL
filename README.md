@@ -38,6 +38,11 @@ python
 >>>     agent.train(100)
 >>>     agent.save_model()
 ```
+
+Using CEM to solve CartPole-v0
+
+<img src="cem.png" div align=middle width = "55%" />
+
 ## Testing
 After learning, a model weights can be saved using the *save_model* method. A learnt model can be tested using the *load_model* and *test* methods.
 ```
